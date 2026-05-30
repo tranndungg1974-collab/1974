@@ -1,0 +1,8 @@
+thế giới lượng tử là gì
+
+**Thế giới lượng tử** là realm vi mô nơi vật chất và năng lượng tồn tại dưới dạng các đơn vị rời rạc gọi là **lượng tử**, tuân theo các quy luật xác suất thay vì cơ học cổ điển. Ở cấp độ nguyên tử và hạ nguyên tử (như electron, photon), các hạt có thể **chồng chập** nhiều trạng thái cùng lúc, **vướng víu** tức thời với nhau dù cách xa nhau, và chịu ảnh hưởng bởi **nguyên lý bất định Heisenberg**.
+
+### Đặc điểm cốt lõi:
+*   **Lượng tử hóa**: Năng lượng và các đại lượng vật lý không liên tục mà xuất hiện thành các "gói" rời rạc.
+*   **Hàm sóng**: Hành vi của hạt được mô tả bằng xác suất tìm thấy vị trí, không phải quỹ đạo cố định.
+*   **Tính thực tế**: Dù khó trực quan, thế giới lượng tử là nền tảng cho các công nghệ hiện đại như **chip bán dẫn**, **laser**, và đang mở đường cho **máy tính lượng tử**.
